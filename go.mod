@@ -1,4 +1,4 @@
-module github.com/smartlwei/practice/grpcdemo
+module github.com/smartlwei/grpcdemo
 
 go 1.16
 
